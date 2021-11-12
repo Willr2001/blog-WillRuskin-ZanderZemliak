@@ -1,4 +1,4 @@
-# A Blog Starter App
+# A Blog written using firebase and React
 
 Will Ruskin & Zander Zemliak
 
